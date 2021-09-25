@@ -1,0 +1,15 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(´ªˆĞ8‡ Ô¤´/
+]	java:S125"<This block of commented-out lines of code should be removed.(ûá€âüÿÿÿÿ8™¹Ö¤´/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¨¦¶ò8‡ Ô¤´/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¤­Ìıÿÿÿÿ8‡ Ô¤´/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¨¦¶ò8‡ Ô¤´/
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(§£ª®8‡ Ô¤´/
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(³®Şåşÿÿÿÿ8‡ Ô¤´/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(¡İ’Ïşÿÿÿÿ8‡ Ô¤´/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(À¡×èúÿÿÿÿ8‡ Ô¤´/
+B
+java:S12641",Replace this "for" loop with a "while" loop.(¼©·“
+\
+java:S1128":Remove this unused import 'Lecture_14.HomeWork.ShellSort'.(×ï‘Òÿÿÿÿÿ8ÇŞÕ¤´/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñ¥–å
